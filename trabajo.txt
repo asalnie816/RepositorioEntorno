@@ -1,1 +1,3 @@
 Fichero editado en github
+nuestro fichero es el bueno, no nos gustan los conflictos
+
